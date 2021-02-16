@@ -1,4 +1,3 @@
-package com.example.api;
 import org.json.JSONObject;
 
 import java.net.http.HttpClient;
